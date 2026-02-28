@@ -15,5 +15,3 @@ This project demonstrates:
 - Clear communication of findings
 
 ---
-
-## 📂 Repository Structure
