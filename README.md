@@ -1,7 +1,5 @@
-# superstore-sales-analysis
+# Superstore-Sales-Analysis
 Exploratory data analysis of global superstore sales data
-
-# Superstore Sales & Profit Performance Dashboard
 
 ## 📊 Project Overview
 This project analyzes the Sample Superstore dataset to uncover insights about sales, profit, customer segments, shipping efficiency, and discount impact.  
