@@ -197,9 +197,3 @@ Check screenshots in /screenshots for a quick preview
 - Pivot Charts
 
 - GitHub
-
-## 💼 About This Project
-
-This project was created as part of the EdMotion Pod Task, showcasing hands-on Excel data analysis skills, reproducibility, and documentation.
-It serves as a professional portfolio piece for demonstrating capability in cleaning, analyzing, and presenting business data.# Superstore-Sales-Analysis
-Exploratory data analysis of global superstore sales data
