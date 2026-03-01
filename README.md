@@ -31,20 +31,12 @@ This project analyzes the Sample Superstore dataset to uncover insights about sa
 
 
 ## 📂 Repository Structure
-├── Superstore_analysis_workbook.xlsx      # Main project file
-│                                          # Contains:
-│                                          # - Cleaned data
-│                                          # - Pivot tables
-│                                          # - Dashboard
-│
-├── analysis_cleaned_data.xlsx             # Export of the cleaned dataset only
-│
+├── Superstore_analysis_workbook.xlsx # Contains all analysis
+├── analysis_cleaned_data.xlsx # Cleaned dataset
 ├── screenshots/
-│   ├── dashboard_overview.png
-│   ├── kpi_section.png
-│   ├── charts_section.png
-│   └── pivots_overview.png
-│
+│ ├── dashboard_overview.png
+│ ├── kpi_section.png
+│ └── charts_section.png
 └── README.md
 
 ## 🧼 Data Cleaning (Power Query)
@@ -144,11 +136,6 @@ ection](screenshots/kpi_section.png)
 ### Charts Section
 ![Charts Se<img width="924" height="275" alt="Charts_section" src="https://github.com/user-attachments/assets/654acc2d-b84f-42fa-b438-679a2f0594e0" />
 ction](screenshots/charts_section.png)
-## Dashboard Overview
-
-- KPI Section
-
-- Charts Section
 
 ## 📈 Key Insights
 🔹 Category Performance
@@ -179,6 +166,13 @@ Clear monthly and yearly seasonal patterns
 
 Spike in Q4 sales across most years
 
+## 🧠 Technical Summary
+
+- Data cleaning done with Power Query  
+- Pivot tables built to explore different dimensions  
+- Dashboard created with pivot charts and slicers  
+- Everything is in one Excel workbook for ease of review
+
 ## 🚀 How to Use This Project
 
 - Download this repository
@@ -196,6 +190,12 @@ Spike in Q4 sales across most years
 - Use slicers and timeline to interact with results
 
 Check screenshots in /screenshots for a quick preview
+
+### 📄 Inside the Excel Workbook
+
+- **Cleaned_Data** sheet → cleaned, prepared dataset  
+- **Pivot_Tables** sheet → all pivot tables for analysis  
+- **Dashboard** sheet → interactive dashboard with charts and slicers
 
 ## 🛠️ Tools Used
 
