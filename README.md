@@ -1,34 +1,36 @@
-📊 Superstore Sales & Profit Performance Dashboard
+## 📊 Superstore Sales & Profit Performance Dashboard
 
-⭐ Project Overview
 
+## ⭐ Project Overview
 This project analyzes the Sample Superstore dataset to uncover insights about sales, profits, regional performance, discount impact, and shipping efficiency.
 
-The final result is a fully interactive Excel dashboard supported by:
 
-Cleaned & structured dataset
+## The final result is a fully interactive Excel dashboard supported by:
 
-Pivot table analysis
+- Cleaned & structured dataset
 
-KPI summaries
+- Pivot table analysis
 
-Interactive slicers & timeline
+- KPI summaries
 
-Clear business insights
+- Interactive slicers & timeline
 
-This project demonstrates core data analyst skills:
+- Clear business insights
 
-Data cleaning using Power Query
+## This project demonstrates core data analyst skills:
 
-Exploratory data analysis using Pivot Tables
+- Data cleaning using Power Query
 
-Dashboard creation with PivotCharts & KPIs
+- Exploratory data analysis using Pivot Tables
 
-Insight communication
+- Dashboard creation with PivotCharts & KPIs
 
-GitHub documentation and project organization
+- Insight communication
 
-📂 Repository Structure
+- GitHub documentation and project organization
+
+
+## 📂 Repository Structure
 ├── Superstore_analysis_workbook.xlsx      # Main project file
 │                                          # Contains:
 │                                          # - Cleaned data
@@ -44,100 +46,100 @@ GitHub documentation and project organization
 │   └── pivots_overview.png
 │
 └── README.md
-🧼 Data Cleaning (Power Query)
+
+## 🧼 Data Cleaning (Power Query)
 
 Cleaning Steps Completed:
 
-Loaded raw CSV into Power Query
+- Loaded raw CSV into Power Query
 
-Removed duplicates
+- Removed duplicates
 
-Fixed incorrect data types (dates, text, numbers)
+- Fixed incorrect data types (dates, text, numbers)
 
-Extracted Order Year and Order Month
+- Extracted Order Year and Order Month
 
-Ensured consistent formatting
+- Ensured consistent formatting
 
-Loaded cleaned dataset back into Excel
+- Loaded cleaned dataset back into Excel
 
-Cleaned dataset is available inside:
+- Cleaned dataset is available inside:
 
-Superstore_analysis_workbook.xlsx
+- Superstore_analysis_workbook.xlsx
 
-analysis_cleaned_data.xlsx
+- analysis_cleaned_data.xlsx
 
-🔍 Exploratory Analysis (Pivot Tables)
+## 🔍 Exploratory Analysis (Pivot Tables)
 
 The following pivot tables were created inside
 Superstore_analysis_workbook.xlsx → Pivot Tables sheet:
 
-Sales & Profit Analysis
+- Sales & Profit Analysis
 
-Profit by Category
+- Profit by Category
 
-Profit by Sub-Category
+- Profit by Sub-Category
 
-Sales by Region
+- Sales by Region
 
-Sales by Segment
+- Sales by Segment
 
-Discount Impact on Profit
+- Discount Impact on Profit
 
-Operational Analysis
+- Operational Analysis
 
-Shipping Mode Performance
+- Shipping Mode Performance
 
-Monthly Sales Trend
+- Monthly Sales Trend
 
-Yearly Sales Trend
+- Yearly Sales Trend
 
-Total Orders (Count of Order ID)
+- Total Orders (Count of Order ID)
 
 These pivot tables form the backbone of the dashboard.
 
-📊 Dashboard Overview
+## 📊 Dashboard Overview
 
 The final Excel dashboard includes:
 
-KPI Cards
+- KPI Cards
 
-Total Sales
+- Total Sales
 
-Total Profit
+- Total Profit
 
-Total Orders
+- Total Orders
 
-Total Quantity Sold
+- Total Quantity Sold
 
-Visuals
+## Visuals
 
-Sales by Category
+- Sales by Category
 
-Profit by Sub-Category
+- Profit by Sub-Category
 
-Discount vs Profit
+- Discount vs Profit
 
-Shipping Mode Performance
+- Shipping Mode Performance
 
-Sales Trend (Year & Month)
+- Sales Trend (Year & Month)
 
-Interactivity
+## Interactivity
 
-Slicers for Category, Region, and Segment
+- Slicers for Category, Region, and Segment
 
-Timeline filter for Order Date
+- Timeline filter for Order Date
 
-Screenshot Previews
-
+## Screenshot Previews
 (These images will display once you upload them into /screenshots)
 
-Dashboard Overview
+## Dashboard Overview
 
-KPI Section
+- KPI Section
 
-Charts Section
+- Charts Section
 
-📈 Key Insights
+## 📈 Key Insights
 🔹 Category Performance
 
 Technology is the most profitable category
@@ -166,37 +168,37 @@ Clear monthly and yearly seasonal patterns
 
 Spike in Q4 sales across most years
 
-🚀 How to Use This Project
+## 🚀 How to Use This Project
 
-Download this repository
+- Download this repository
 
-Open Superstore_analysis_workbook.xlsx
+- Open Superstore_analysis_workbook.xlsx
 
-Navigate through the sheets:
+- Navigate through the sheets:
 
-Cleaned_Data → cleaned version of the dataset
+- Cleaned_Data → cleaned version of the dataset
 
-Pivot_Tables → all analytical tables
+- Pivot_Tables → all analytical tables
 
-Dashboard → final visual dashboard
+- Dashboard → final visual dashboard
 
-Use slicers and timeline to interact with results
+- Use slicers and timeline to interact with results
 
 Check screenshots in /screenshots for a quick preview
 
-🛠️ Tools Used
+## 🛠️ Tools Used
 
-Microsoft Excel
+- Microsoft Excel
 
-Power Query
+- Power Query
 
-Pivot Tables
+- Pivot Tables
 
-Pivot Charts
+- Pivot Charts
 
-GitHub
+- GitHub
 
-💼 About This Project
+## 💼 About This Project
 
 This project was created as part of the EdMotion Pod Task, showcasing hands-on Excel data analysis skills, reproducibility, and documentation.
 It serves as a professional portfolio piece for demonstrating capability in cleaning, analyzing, and presenting business data.# Superstore-Sales-Analysis
