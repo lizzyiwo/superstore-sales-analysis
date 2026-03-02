@@ -126,8 +126,10 @@ The final Excel dashboard includes:
 ## 📷 Dashboard Screenshots
 Dashboard
 <img width="959" height="490" alt="Dashboard" src="https://github.com/user-attachments/assets/4d5d37af-b661-4a48-89bf-332d7a0b8cfa" />
+
 KPI
 <img width="758" height="92" alt="KPI" src="https://github.com/user-attachments/assets/1fa66ac7-031a-45f6-b1df-8b129ebe6010" />
+
 Charts
 <img width="924" height="275" alt="Charts" src="https://github.com/user-attachments/assets/a32fb16a-cd44-4fda-afcb-85de3bebb171" />
 
