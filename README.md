@@ -124,17 +124,12 @@ The final Excel dashboard includes:
 
 
 ## 📷 Dashboard Screenshots
-
-![Dashboard](Screenshots/dashboard.png)
-![KPI](Screenshots/kpi.png)
-![Charts](Screenshots/charts.png)
-
-<img width="959" height="490" alt="Dashboard" src="https://github.com/user-attachments/assets/a2c6b07e-441c-4992-937c-e3feec3fb640" />
-
-<img width="758" height="92" alt="KPI" src="https://github.com/user-attachments/assets/7b96fa8f-f9e0-4a60-8ca1-9a23c638d79f" />
-
-<img width="924" height="275" alt="Charts" src="https://github.com/user-attachments/assets/fd41c024-bd36-4f99-b0c4-96d05fa10184" />
-
+Dashboard
+<img width="959" height="490" alt="Dashboard" src="https://github.com/user-attachments/assets/4d5d37af-b661-4a48-89bf-332d7a0b8cfa" />
+KPI
+<img width="758" height="92" alt="KPI" src="https://github.com/user-attachments/assets/1fa66ac7-031a-45f6-b1df-8b129ebe6010" />
+Charts
+<img width="924" height="275" alt="Charts" src="https://github.com/user-attachments/assets/a32fb16a-cd44-4fda-afcb-85de3bebb171" />
 
 ## 📈 Key Insights
 🔹 Category Performance
