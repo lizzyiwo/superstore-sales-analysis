@@ -127,8 +127,6 @@ The final Excel dashboard includes:
 
 ![Dashboard](Screenshots/dashboard.png)
 ![KPI](Screenshots/kpi.png)
-![Dashboard](Screenshots/dashboard.png)
-![KPI](Screenshots/kpi.png)
 ![Charts](Screenshots/charts.png)
 
 ## 📈 Key Insights
