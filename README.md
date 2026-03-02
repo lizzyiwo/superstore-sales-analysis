@@ -125,17 +125,11 @@ The final Excel dashboard includes:
 
 ## 📷 Dashboard Screenshots
 
-### Dashboard Overview
-![Dashboar<img width="959" height="490" alt="Dashboard_overview" src="https://github.com/user-attachments/assets/fd15ffa7-0f35-400f-8ef3-7e5652d16f5d" />
-d Overview](screenshots/dashboard_overview.png)
-
-### KPI Section
-![KPI S<img width="758" height="92" alt="KPI_sections" src="https://github.com/user-attachments/assets/854747de-fb55-4f57-9be0-d4e3f42d853f" />
-ection](screenshots/kpi_section.png)
-
-### Charts Section
-![Charts Se<img width="924" height="275" alt="Charts_section" src="https://github.com/user-attachments/assets/654acc2d-b84f-42fa-b438-679a2f0594e0" />
-ction](screenshots/charts_section.png)
+![Dashboard](Screenshots/dashboard.png)
+![KPI](Screenshots/kpi.png)
+![Dashboard](Screenshots/dashboard.png)
+![KPI](Screenshots/kpi.png)
+![Charts](Screenshots/charts.png)
 
 ## 📈 Key Insights
 🔹 Category Performance
